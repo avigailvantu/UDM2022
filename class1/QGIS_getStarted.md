@@ -5,9 +5,7 @@ On top of the lab given in class this document should be pretty helpful in cover
 
 
 #### 1. 🦑 Installing QGIS 3 🦀
-To get started you will need to install QGIS. Note that QGIS is an open source tool, it's totally free and can be downloaded on any OS (i.e. both MacOS and Windows).
-
-Here's a link to QGIS's download page:
+To get started you will need to install QGIS. QGIS is an open source tool, it's totally free and can be downloaded on any OS.
 
 [https://qgis.org/en/site/forusers/download.html]
 
