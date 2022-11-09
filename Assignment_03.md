@@ -29,7 +29,7 @@ Hint: Use a mathematical expression. Divide each pixel in (b) with its respectiv
 5. Find one more method that can be used to compare the two periods.  
 
 
-Create a short presentation (3-5 slides) with your findings from the assignment. Include maps and data sources. Discuss any missing data and limitations you encountered along the way. The assignment is due on Nov 24th, please submit your slides to NYU Brightspace before calss. 
+Create a short presentation (3-5 slides) with your findings from the assignment. Include maps and data sources. Discuss any missing data and limitations you encountered along the way. The assignment is due on Nov 9th, please submit your slides to NYU Brightspace before calss. 
 
 
 Resources:
